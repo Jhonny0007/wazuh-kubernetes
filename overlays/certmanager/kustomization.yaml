@@ -18,6 +18,9 @@ patches:
   - path: patches/patch-indexer-vol.yaml
   - path: patches/patch-manager-master-vol.yaml
   - path: patches/patch-manager-worker-vol.yaml
+  - path: patches/storage-class.yaml
+  - path: patches/indexer-resources.yaml
+  - path: patches/wazuh-resources.yaml
 
 
   
